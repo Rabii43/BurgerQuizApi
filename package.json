@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "cors": "^2.8.5",
+    "jwt-decode": "^3.1.2"
+  }
+}
